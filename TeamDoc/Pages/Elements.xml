@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\CreateTask.js" Url="Pages/CreateTask.js" ReplaceContent="TRUE" />
+    <File Path="Pages\TaskViewer.html" Url="Pages/TaskViewer.html" ReplaceContent="TRUE" />
+    <File Path="Pages\TaskViewer.js" Url="Pages/TaskViewer.js" ReplaceContent="TRUE" />
+    <File Path="Pages\CreateTask.aspx" Url="Pages/CreateTask.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\UpdateTask.aspx" Url="Pages/UpdateTask.aspx" ReplaceContent="TRUE" />
+    <File Path="Pages\UpdateTask.js" Url="Pages/UpdateTask.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

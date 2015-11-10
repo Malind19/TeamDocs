@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="TeamDocs"
+     ProductID="{3be81284-b7ee-4acd-a259-6364b4f8388e}"
+     Version="1.0.0.1"
+     SharePointMinVersion="16.0.0.0"
+>
+  <Properties>
+    <Title>TeamDocs</Title>
+    <StartPage>~appWebUrl/Lists/TeamWordDocsLibrary?{StandardTokens}</StartPage>
+  </Properties>
+
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+
+
+</App>

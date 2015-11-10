@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="WordTeamDoc">
+    <File Path="WordTeamDoc\Home\Home.css" Url="WordTeamDoc/Home/Home.css" ReplaceContent="TRUE" />
+    <File Path="WordTeamDoc\Home\Home.html" Url="WordTeamDoc/Home/Home.html" ReplaceContent="TRUE" />
+    <File Path="WordTeamDoc\Home\Home.js" Url="WordTeamDoc/Home/Home.js" ReplaceContent="TRUE" />
+    <File Path="WordTeamDoc\App.css" Url="WordTeamDoc/App.css" ReplaceContent="TRUE" />
+    <File Path="WordTeamDoc\App.js" Url="WordTeamDoc/App.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
